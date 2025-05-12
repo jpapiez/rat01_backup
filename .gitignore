@@ -3,6 +3,8 @@ secrets.conf
 *.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
+RatOS-[0-9]*_[0-9]*.cfg
+ratos-variables-[0-9]*_[0-9]*.cfg
 *.bak
 *.bkp
 *.csv
